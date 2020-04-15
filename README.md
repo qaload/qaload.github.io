@@ -4,6 +4,7 @@
   * [The Art of Application Performance Testing (En)](https://www.oreilly.com/library/view/the-art-of/9781491900536/)
 
 #### Talks 
+  * [От сервиса нагрузочного тестирования к центру компетенций Урал Нургалин (Rus)](https://www.youtube.com/watch?v=1ZGfN_uBpO8)
   * [Сложности performance-тестирования Андрей Акиньшин (Rus)](https://www.youtube.com/watch?v=am94iI2assY)   
   * [Честное перформанс-тестирование Дмитрий Пивоваров (Rus)](https://www.youtube.com/watch?v=8Mzs3arFGZo)  
   * [Бутылочное горлышко Михаил Епихин (Rus)](https://www.youtube.com/watch?v=5sAPrYmuMIs)  
