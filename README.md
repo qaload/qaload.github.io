@@ -10,7 +10,7 @@
   * [Бутылочное горлышко Михаил Епихин (Rus)](https://www.youtube.com/watch?v=5sAPrYmuMIs)  
   * [Учимся анализировать результаты нагрузочного тестирования Алексей Лавренюк (Rus)](https://www.youtube.com/watch?v=gws7L3EaeC0)  
   * [Вячеслав Смирнов — Ускоряем Apache JMeter (Rus)](https://www.youtube.com/watch?v=rQCspOA30Bc)
-  * [Cloud Performance Root Cause Analysis at Netflix Brendan Gregg (En)](https://www.youtube.com/watch?v=03EC8uA30Pw)  
+  * [Cloud Performance Root Cause Analysis at Netflix Brendan Gregg (En)](https://www.youtube.com/watch?v=tAY8PnfrS_k)  
   * [Linux Performance Brendan Gregg (En)](https://www.youtube.com/watch?v=3jhl0v8MuDg)
   * [Подводные камни в нагрузочном тестировании — Владимир Ситников (Rus)](https://www.youtube.com/watch?v=3PWBBc7rZxw)
   * [Нагрузочное тестирование Atlassian Jira - Алексей Матвеев (Rus)](https://www.youtube.com/watch?v=cpXTUMxDFec)
