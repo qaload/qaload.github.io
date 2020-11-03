@@ -78,7 +78,7 @@ _Материал в процессе наполнения и редактиро
 
 #### <a name="jmeter-templates"> Примеры скриптов Apache JMeter
 
-####<a name="gatling-tamplates"> Примеры скриптов Gatling
+#### <a name="gatling-tamplates"> Примеры скриптов Gatling
 
 #### <a name="jmeter-templates"> Плагины Apache JMeter
 - [JMeter Plugins](https://jmeter-plugins.org) - большая подборка плагинов для jmeter
