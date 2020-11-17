@@ -39,3 +39,80 @@
 #### Books
 
   * [Статистика и котики - Владимир Савельев (Rus)](https://edgeconsult.me/lib/Math/Statistika_i_kotiki_Savelev.620655.pdf)
+   
+## База знаний нагрузочного тестирования
+_Материал в процессе наполнения и редактирования_
+#### Что такое нагрузочное тестирование?
+ - [Глоссарий](#glossary)
+ - [Введение в теорию НТ](#theory)
+ - [Виды тестов](#test-types)
+ - [Профиль нагрузки](#profile)
+ - [Доклады по теме](#report-LT)
+#### Разработка тестовых скриптов и заглушек
+ - [Примеры скриптов Apache JMeter](#jmeter-templates)
+ - [Примеры скриптов Gatling](#gatling-tamplates)
+ - [Плагины Apache JMeter](#jmeter-plugins)
+#### Документация
+#### Запуск тестов
+#### Сбор и анализ метрик/логов
+#### Генерация тестовых данных
+#### Изучение работы системы
+#### Настройка стенда
+#### Инструменты нагрузочного тестирования
+#### Мониторинг
+#### Подготовка рабочего места
+#### Автоматизация
+ - [Доклады](#report-autotest)
+
+### Что такое нагрузочное тестирование?
+#### <a name="glossary"/>Глоссарий
+
+- [ISTQB](https://www.rstqb.org/ru/istqb-downloads.html?file=files/content/rstqb/downloads/ISTQB%20Downloads/ISTQB_Glossary_English_v2.3.pdf) - англоязычный глоссарий терминов Iternation Software Testing Qualifications Board. К сожалению есть ряд спорных терминов и определений, которые либо не раскрывают суть, либо противоречат другим источникам. 
+- [RSTQB](https://www.rstqb.org/ru/istqb-downloads.html?file=files/content/rstqb/downloads/ISTQB%20Downloads/ISTQB%20%D0%93%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B8%CC%86%20%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%202.3.pdf) - аналогичный предыдущему русскоязычный глоссарий Russian Software Testing Qualifications Board
+
+#### <a name="theory"/>Введение в теорию НТ
+
+#### <a name="glossary"/>Виды тестов
+
+#### <a name="test-types"/>Профиль нагрузки 
+
+#### <a name="report-LT"/>Доклады по теме
+
+- [Нагрузочное тестирование с нуля - Кирилл Юрков](https://docs.google.com/presentation/d/1Vfw6_FIYxJxfsIW1-OFaj-SOmLZYUkJuM-k7wvcNhAE/edit?usp=sharing)
+
+###  Разработка тестовых скриптов и заглушек
+
+#### <a name="jmeter-templates"> Примеры скриптов Apache JMeter
+
+#### <a name="gatling-tamplates"> Примеры скриптов Gatling
+
+#### <a name="jmeter-templates"> Плагины Apache JMeter
+- [JMeter Plugins](https://jmeter-plugins.org) - большая подборка плагинов для jmeter
+
+### Документация
+
+#### Методика нагрузочного тестирования (МНТ)
+
+#### Оформление отчета и инструкций
+
+### Запуск тестов
+
+### Сбор и анализ метрик/логов
+
+### Генерация тестовых данных
+
+### Изучение работы системы
+
+### Настройка стенда
+
+### Инструменты нагрузочного тестирования
+
+### Мониторинг
+
+### Подготовка рабочего места
+
+### Автоматизация
+
+#### <a name="report-autotest"> Доклады
+- [Автоматизация НТ дешево и больно Кирилл Юрков](https://youtu.be/sEcudxQB62M?t=2863) - Jenkins, JMeter и Grafana
+- [Готовый шаблон автоотчеты в JMeter + большой дашборд](https://github.com/kirillyu/jmeterReports) - Confluence, JMeter и Grafana тестовые тренды и переход к тесту по ссылке.
