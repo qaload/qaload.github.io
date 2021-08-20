@@ -19,6 +19,10 @@
   * [Подводные камни в нагрузочном тестировании - Владимир Ситников (Rus)](https://www.youtube.com/watch?v=3PWBBc7rZxw)
   * [Нагрузочное тестирование Atlassian Jira - Алексей Матвеев (Rus)](https://www.youtube.com/watch?v=cpXTUMxDFec)
 
+#### Articles
+
+  * [Методология и практика нагрузочного тестирования. Опыт Miro - Дмитрий Винокуров (Rus)](https://habr.com/ru/company/miro/blog/573338/)
+
 #### Analyzing performance methods
 
   * [The USE Method](http://www.brendangregg.com/usemethod.html)
