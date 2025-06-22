@@ -10,7 +10,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  # - jekyll-seo-tag
+  - jekyll-seo-tag
 
 sass:
   quiet_deps: true
