@@ -34,7 +34,7 @@ minima:
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
   nav_pages:
-    - about.md
+    - general.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
@@ -52,8 +52,8 @@ minima:
   #     * url      Full URL of social profile.
   social_links:
     - title: QA Load at YouTube
-      icon: youtube
+      icon: fa-youtube
       url: "https://www.youtube.com/@qaload"
     - title: QA Load at Telegram
-      icon: telegram
+      icon: fa-telegram
       url: "https://t.me/qa_load"
