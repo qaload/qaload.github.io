@@ -24,6 +24,9 @@ permalink: /general/
   * [Linux Performance - Brendan Gregg (En)](https://www.youtube.com/watch?v=3jhl0v8MuDg)
   * [Подводные камни в нагрузочном тестировании - Владимир Ситников (Rus)](https://www.youtube.com/watch?v=3PWBBc7rZxw)
   * [Нагрузочное тестирование Atlassian Jira - Алексей Матвеев (Rus)](https://www.youtube.com/watch?v=cpXTUMxDFec)
+  * [Автоматизация НТ дешево и больно Кирилл Юрков](https://youtu.be/sEcudxQB62M?t=2863) - Jenkins, JMeter и Grafana
+  * [Готовый шаблон автоотчеты в JMeter + большой дашборд](https://github.com/kirillyu/jmeterReports) - Confluence, JMeter и Grafana тестовые тренды и переход к тесту по ссылке.
+
 
 #### Articles
 
