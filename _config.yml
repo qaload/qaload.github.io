@@ -6,7 +6,9 @@ author:
 description: >
   Knowledge base of QA Load & Performance community members
 
-theme: minima
+# theme: minima
+remote_theme: "jekyll/minima@c27a30cb27997bd3ed45ba5a77bd97bd27cbeb64"
+
 
 plugins:
   - jekyll-feed
