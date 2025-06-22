@@ -1,1 +1,57 @@
-theme: jekyll-theme-cayman
+title: QA Load Knowledge base
+author:
+  name: polarnik
+  email: owasp@ya.ru
+
+description: >
+  Knowledge base of QA Load & Performance community members
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  # - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  # Minima skin selection. Available skins are:
+  #   Available skins:
+  #     * classic            Default, light color scheme.
+  #     * dark               Dark variant of the classic skin.
+  #     * auto               Adaptive skin based on the default classic and dark skins.
+  #     * solarized-light    Light variant of solarized color scheme.
+  #     * solarized-dark     Dark variant of solarized color scheme.
+  #     * solarized          Adaptive skin for solarized color scheme skins.
+  skin: auto
+
+  # Specific pages for site navigation.
+  #   If you wish to link only specific pages in the site-navigation, use this and list
+  #   the `path` property (as represented via Liquid) of the pages in the order they
+  #   should be rendered.
+  nav_pages:
+    - about.md
+
+  # Set to `true` to show excerpts on the homepage.
+  show_excerpts: false
+
+  # Minima date format.
+  #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
+  #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
+  date_format: "%Y-%m-%d"
+
+  # Social Media Links
+  #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
+  #   Entry keys:
+  #     * title    Tooltip rendered on hovering over icon.
+  #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+  #     * url      Full URL of social profile.
+  social_links:
+    - title: QA Load at YouTube
+      icon: youtube
+      url: "https://www.youtube.com/@qaload"
+    - title: QA Load at Telegram
+      icon: telegram
+      url: "https://t.me/qa_load"
